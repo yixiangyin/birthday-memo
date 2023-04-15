@@ -1,4 +1,4 @@
-# birthday-matters
+# birthday-memo
 A web application to keep track of friends' birthdays in a database.
 # how to run
 Assuming Flask is installed, you can run the app at the root directory with `flask run`.
